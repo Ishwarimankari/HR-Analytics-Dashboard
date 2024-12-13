@@ -24,22 +24,22 @@ Visualizes gender-based attrition trends to identify disparities.
 
 Attrition by Education:
 
-Visualization: A donut chart highlights the percentage distribution of attrition across different education levels.
+A donut chart highlights the percentage distribution of attrition across different education levels.
 
 Attrition by Age:
 
-Visualization: A bar chart showcases attrition across various age groups.
+A bar chart showcases attrition across various age groups.
 
 Attrition by Job Role:
 
-Visualization: A table lists job roles with associated attrition counts and percentages for detailed analysis.
+A table lists job roles with associated attrition counts and percentages for detailed analysis.
 
 Attrition by Salary Slab:
 
-Visualization: A clustered bar chart displays the correlation between attrition and salary ranges.
+A clustered bar chart displays the correlation between attrition and salary ranges.
 
 Attrition by Years at the Company:
 
-Visualization: An area chart highlights trends in attrition based on the years employees spent in the company.
+An area chart highlights trends in attrition based on the years employees spent in the company.
 
 ![HR](https://github.com/user-attachments/assets/36f9ad37-d4a5-468a-972e-849610d38d1a)
