@@ -1,5 +1,4 @@
 #HR ANALYTICS DASHBOARD
-HR Analytics Dashboard
 
 This project is an HR Analytics Dashboard designed to visualize and analyze key metrics related to employee attrition in an organization. The dashboard leverages interactive and intuitive visualizations to help HR teams identify trends, uncover insights, and make data-driven decisions to improve employee retention.
 
